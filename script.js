@@ -5,6 +5,6 @@ btn.addEventListener('click',act)
 
 function act(){
     btn.style.backgroundColor='#E74C3C';
-     btn.style.displayr='block';
+    text.style.display='block';
     
 }
